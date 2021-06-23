@@ -1,6 +1,11 @@
-@@/dmedianet.js$important
+@@/dmedianet.js
 @@/nmedianet.js
-
 @@/einslmedianet.js
 @@/ampnmedianet.js
 @@/inslmedianet.js
+@@/dintext.js
+@@/lmedianet.js
+@@/lmedianet.js
+@@||vwo.com
+@@||thebugs.ws
+@@||youtube.com
